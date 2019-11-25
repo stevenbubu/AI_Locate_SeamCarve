@@ -1,0 +1,3 @@
+python seamcarving.py -resize -im "images/beach.jpg" -out "beach.jpg" -dy 100 -dx 100 -vis
+
+python seamcarving.py -resize -im "images/castle.jpg" -out "castle.jpg"
